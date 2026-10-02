@@ -24,7 +24,7 @@ GUIDE = [
     ("Pull Shark", "Merge pull requests. More merges, higher tiers."),
     ("Pair Extraordinaire", "Merge PRs with Co-authored-by trailers from a partner."),
     ("Galaxy Brain", "Get discussion answers marked accepted."),
-    ("Starstruck", "Earn stars on your own repos (first tier ≈16)."),
+    ("Starstruck", "Earn stars on your own repos (first tier ~16)."),
     ("Public Sponsor", "Sponsor an open-source developer."),
 ]
 
